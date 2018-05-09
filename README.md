@@ -10,3 +10,6 @@ In this program you can :
 3. find earliest time to start /finish each task.
 4. find if your graph is cyclic.
 5. find slack time for ALL tasks -(if there are cycles in your graph you cant calculate slack time)
+
+
+Note: see file project.py and in the end of it you can see output & input examples.
