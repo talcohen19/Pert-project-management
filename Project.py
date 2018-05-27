@@ -2,10 +2,6 @@ import logging
 
 # PERT implemtnion in python
 
-#Tal Cohen : 308275429
-
-#Shlomi Shasho: 308140557
-
 class LogMixin (object):
     @property
     def logger(self):
